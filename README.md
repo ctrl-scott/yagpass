@@ -2,6 +2,8 @@
 Password generator and manager CLI - based in C - coded alongside ChatGPT - in CLion Community Edition - here is the ChatGPT link: 
 url: [ChatGPT Link 08-20-2025](https://chatgpt.com/share/68a528d8-503c-800c-9efa-bcf311df8ff9)
 
+After reading through the material, it is important to note that structures, types, and other information presented in this context does not translate clearly in every corner of the world. When working with other people make sure the information is clearly defined and the context is clearly stated.
+
 ## Glossary and Appendices
 Here you go—an easy-to-skim **Glossary** plus **Appendices** that document the key terms, operations, syntax, and structural elements used in the project.
 
